@@ -12,3 +12,14 @@ void add()
  a= a+b;
  cout<<"a="<<a;
 }
+  
+void sub()
+{
+ int a,b; 
+ cout<<"enter value of a and b"; 
+ cin>>a>>b; 
+ 
+ a= a-b; 
+ 
+ cout<<"a="<<a;
+}
